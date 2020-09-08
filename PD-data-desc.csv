@@ -1,0 +1,36 @@
+﻿field;desc_eng;desc_rus
+ar_revenue;Sales revenue (at the end of the last year);Выручка от реализации (на конец последнего года)
+ar_total_expenses;Total expenses for the last year;Общие расходы за последний год
+ar_sale_cost;Cost of sales (at the end of the last year);Себестоимость продаж (на конец последнего года)
+ar_selling_expenses;Selling expenses (at the end of the last year);Коммерческие расходы (на конец последнего года)
+ar_management_expenses;Administrative expenses (at the end of the last year);Управленческие расходы (на конец последнего года)
+ar_sale_profit;Profit from sales (at the end of the last year);Прибыль от реализации (на конец последнего года)
+ar_balance_of_rvns_and_expns;Balance of income and expenses (at the end of the last year);Баланс доходов и расходов (на конец последнего года)
+ar_profit_before_tax;Gross Profit (end of last year);Валовая прибыль (на конец последнего года)
+ar_taxes;Current income tax (at the end of the last year);Текущий на налог на прибыль (на конец последнего года)
+ar_other_profit_and_losses;Other income and expenses (at the end of the last year);Прочие доходы и расходы (на конец последнего года)
+ar_net_profit;Net profit (at the end of the last year);Чистая прибыль (на конец последнего года)
+ab_immobilized_assets;Fixed assets for the last year;Основные внеоборотные средства за последний год
+ab_mobile_current_assets;Current assets (at the end of the last year);Оборотные активы (на конец последнего года)
+ab_inventory;Stocks (at the end of the last year);Запасы (на конец последнего года)
+ab_accounts_receivable;Accounts receivable (at the end of the last year);Дебиторская задолженность (на конец последнего года)
+ab_other_current_assets;Other current assets (at the end of the last year);Прочие оборотные активы (на конец последнего года)
+ab_cash_and_securities;Cash and cash equivalents (at the end of the last year);Денежные средства и денежные эквиваленты (на конец последнего года)
+ab_losses;Retained earnings (at the end of the last year);Нераспределенная прибыль (на конец последнего года)
+ab_own_capital;Capital (at the end of the last year);Капитал (на конец последнего года)
+ab_borrowed_capital;Total debt (end of last year);Общие долговые обязательства (на конец последнего года)
+ab_long_term_liabilities;Long-term liabilities (at the end of the last year);Долгосрочный обязательства (на конец последнего года)
+ab_short_term_borrowing;Short-term borrowed funds (at the end of the last year);Краткосрочные заемные средства (на конец последнего года)
+ab_accounts_payable;Accounts payable for the last year;Кредиторская задодженность за последний год
+ab_other_borrowings;Other liabilities (at the end of the last year);Прочие обязательства (на конец последнего года)
+bus_age;Business duration;Срок ведения бизнеса
+ogrn_age;Term from the moment the PSRN was assigned;Срок с момента присваивания ОГРН
+adr_actual_age;Term from the date of registration of the legal address;Срок с момента регистрации юридического адреса
+head_actual_age;Term since the appointment of the head;Срок с момента назначения руководителя
+cap_actual_age;Term from the moment of capital installation;Срок с момента установки капитала
+ul_staff_range;The number of employees;Количество сотрудников
+ul_capital_sum;Capital amount;Величина капитала
+ul_founders_cnt;Number of shareholders;Количество акционеров
+ul_branch_cnt;Number of branches;Количество филиалов
+ul_strategic_flg;A company of strategic importance;Компания стратегического значения
+ul_systematizing_flg;Backbone company;Системообразующая компания
